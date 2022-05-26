@@ -1,0 +1,43 @@
+.navbar {
+    background-color: rgba(40, 167, 69, 1);
+    
+}
+
+.card #titulo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4rem ;
+    font-weight: 300;
+    color: #212529;
+}
+.card #cuerpo{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1rem ;
+    color: #707070;
+}
+
+.card #precio1{
+    
+    color: #707070;
+    font-size: 1rem;
+}
+.card #precio2{
+    
+    color: #28A745;
+    font-size: 1.5rem;
+}
+#formulario{
+    background-color: #28A745 !important;
+}
+
+.text-form{
+ background-color: #28A745 !important;
+ text-align: center;
+}
+.enviar{
+    text-align: center;
+}
+
+.cupon-footer, .text-footer{
+    text-align: center;
+}
